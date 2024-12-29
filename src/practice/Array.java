@@ -16,7 +16,7 @@ public class Array {
 	public static void main(String[] args){
 		Array array=new Array();
 		int[] arr={44,45,22,25,21,29};
-		
+		System.out.println(arr);
 		array.getSumOfnum(arr);
 	}
 }
